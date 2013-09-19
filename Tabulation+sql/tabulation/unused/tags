@@ -1,0 +1,395 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+arr	subselectionform_bak.php	/^$arr = array(1,2,3,4,5,6,7);$/;"	v
+call_deletesub1	submaster.php	/^function call_deletesub1(callprog)$/;"	f
+caller	logintest.php	/^$caller    = 'logintest.php';$/;"	v
+caller	subselectionform0.php	/^$caller=$_COOKIE[CALLER];$/;"	v
+caller	subselectionform1.php	/^$caller=$_COOKIE[CALLER];$/;"	v
+caller	subselectionform1_1.php	/^$caller=$_COOKIE[CALLER];$/;"	v
+caller	subselectionform_bak.php	/^$caller=$_COOKIE[CALLER];$/;"	v
+con	testdb1.php	/^$con = mysql_connect("172.16.4.19",$user,$pass);$/;"	v
+con	testdb2.php	/^$con = mysql_connect("172.16.4.19",$user,$pass) or die('Could not connect: ' . mysql_error());$/;"	v
+connection	readsetup.php	/^function connection($dbarry,$caller) $/;"	f
+counter	crdtable.php	/^$counter=0;$/;"	v
+db	connection.php	/^$db = "tabulation";$/;"	v
+db	deletecrd1.php	/^$db="tabulation";$/;"	v
+db	deletecrd2.php	/^$db="tabulation";$/;"	v
+db	deletesub2.php	/^$db="tabulation";$/;"	v
+db	deletesub_old.php	/^$db="tabulation";$/;"	v
+db	editbulkcrd.php	/^  $db="tabulation";$/;"	v
+db	editbulksub.php	/^  $db="tabulation";$/;"	v
+db	editcrd1.php	/^$db="tabulation";$/;"	v
+db	editcrd2.php	/^$db="tabulation";$/;"	v
+db	editcrd3.php	/^$db="tabulation";$/;"	v
+db	editsub1.php	/^$db="tabulation";$/;"	v
+db	editsub2.php	/^$db="tabulation";$/;"	v
+db	editsub3.php	/^$db="tabulation";$/;"	v
+db	ismconnection.php	/^$db = "tabulation";$/;"	v
+db	myedit.php	/^		$db="tabulation";$/;"	v
+db	readsetup.php	/^$db   = $dbarry[dbname];$/;"	v
+db	search.php	/^		$db="tabulation";$/;"	v
+db	searchcrd.php	/^		$db="tabulation";$/;"	v
+db	searchsub.php	/^		$db="tabulation";$/;"	v
+db	ssconnection.php	/^$db = "tabulation";$/;"	v
+db	sscreditform.php	/^$db = "tabulation";$/;"	v
+db	ssdelete.php	/^$db = "tabulation";$/;"	v
+db	ssedit.php	/^$db = "tabulation";$/;"	v
+db	ssedit2.php	/^$db = "tabulation";$/;"	v
+db	sspage1.php	/^$db = "tabulation";$/;"	v
+db	testdb1.php	/^$db = "tabulation";$/;"	v
+db	testdb2.php	/^$db = "tabulation";$/;"	v
+db	view.php	/^	  $db="tabulation";$/;"	v
+db	viewcrd.php	/^	  $db="tabulation";$/;"	v
+db_found	deletesub1.php	/^$db_found=selectdb($dbarry,'deletesub1.php');$/;"	v
+db_found	editsubcrd1.php	/^$db_found=selectdb($dbarry,'editsubcrd1.php');$/;"	v
+db_found	logintest.php	/^$db_found=selectdb($dbarry,'logintest.php'); \/\/mysql_select_db($dbname) or die ("could not select database\\n");$/;"	v
+db_found	readsetup.php	/^$db_found=mysql_select_db($dbarry[dbname]) or die ("Caller: ".$caller.$/;"	v
+db_found	readsetup.php	/^$db_found=selectdb($dbarry,$caller);$/;"	v
+db_found	subcrdinsert1.php	/^$db_found=selectdb($dbarry,'subcrdinsert1.php');$/;"	v
+db_found	subcrdinsertrecords1.php	/^$db_found=selectdb($dbarry,'subcrdinsertrecords1.php');$/;"	v
+db_link	connection.php	/^ $db_link = mysql_connect("172.16.4.19",$user,$pass) or die ("could not connect to the server\\n");$/;"	v
+db_link	ismconnection.php	/^ $db_link = mysql_connect("172.16.4.19",$user,$pass) or die ("could not connect to the server\\n");$/;"	v
+db_link	readsetup.php	/^$db_link = mysql_connect($dbarry[host],$user,$pass) or die ("Caller: ".$caller.$/;"	v
+db_link	ssconnection.php	/^ $db_link = mysql_connect("172.16.4.19",$user,$pass) or die ("could not connect to the server\\n");$/;"	v
+db_link	sscreditform.php	/^ $db_link = mysql_connect("172.16.4.19",$user,$pass) or die ("could not connect to the server\\n");$/;"	v
+db_link	ssdelete.php	/^ $db_link = mysql_connect("172.16.4.19",$user,$pass) or die ("could not connect to the server\\n");$/;"	v
+db_link	ssedit.php	/^ $db_link = mysql_connect("172.16.4.19",$user,$pass) or die ("could not connect to the server\\n");$/;"	v
+db_link	ssedit2.php	/^ $db_link = mysql_connect("172.16.4.19",$user,$pass) or die ("could not connect to the server\\n");$/;"	v
+db_link	sspage1.php	/^ $db_link = mysql_connect("172.16.4.19",$user,$pass) or die ("could not connect to the server\\n");$/;"	v
+dbarry	deletesub1.php	/^$dbarry    = readsetupdb();$/;"	v
+dbarry	editsubcrd1.php	/^$dbarry    = readsetupdb();$/;"	v
+dbarry	logintest.php	/^$dbarry = readsetupdb();$/;"	v
+dbarry	subcrdinsert1.php	/^$dbarry    = readsetupdb();$/;"	v
+dbarry	subcrdinsertrecords1.php	/^$dbarry    = readsetupdb();$/;"	v
+dbarry	subselectionform0.php	/^$dbarry    = readsetupdb();$/;"	v
+dbarry	subselectionform1.php	/^$dbarry    = readsetupdb();$/;"	v
+dbarry	subselectionform1_1.php	/^$dbarry    = readsetupdb();$/;"	v
+dbarry	subselectionform_bak.php	/^$dbarry    = readsetupdb();$/;"	v
+dbn	subselectionform1_1.php	/^                                $dbn=$dbarry['dbname'];$/;"	v
+dbname	deletesub1.php	/^$dbname    = $dbarry[dbname];$/;"	v
+dbname	editsubcrd1.php	/^$dbname    = $dbarry[dbname];$/;"	v
+dbname	logintest.php	/^$dbname    = $dbarry[dbname];$/;"	v
+dbname	subcrdinsert1.php	/^$dbname    = $dbarry[dbname];$/;"	v
+dbname	subcrdinsertrecords1.php	/^$dbname    = $dbarry[dbname];$/;"	v
+dbname	subselectionform0.php	/^$dbname    = $dbarry[dbname];$/;"	v
+dbname	subselectionform1.php	/^$dbname    = $dbarry[dbname];$/;"	v
+dbname	subselectionform1_1.php	/^$dbname    = $dbarry[dbname];$/;"	v
+dbname	subselectionform_bak.php	/^$dbname    = $dbarry[dbname];$/;"	v
+dbr	subselectionform_bak.php	/^                                $dbr=$rs;$/;"	v
+dbuser	deletesub1.php	/^$dbuser    = $dbarry[user];;$/;"	v
+dbuser	editsubcrd1.php	/^$dbuser    = $dbarry[user];$/;"	v
+dbuser	logintest.php	/^$dbuser    = $dbarry[user];;$/;"	v
+dbuser	subcrdinsert1.php	/^$dbuser    = $dbarry[user];;$/;"	v
+dbuser	subcrdinsertrecords1.php	/^$dbuser    = $dbarry[user];;$/;"	v
+dbuser	subselectionform0.php	/^$dbuser    = $dbarry[user];;$/;"	v
+dbuser	subselectionform1.php	/^$dbuser    = $dbarry[user];;$/;"	v
+dbuser	subselectionform1_1.php	/^$dbuser    = $dbarry[user];;$/;"	v
+dbuser	subselectionform_bak.php	/^$dbuser    = $dbarry[user];;$/;"	v
+dbuserpwd	deletesub1.php	/^$dbuserpwd = $dbarry[paswd];$/;"	v
+dbuserpwd	editsubcrd1.php	/^$dbuserpwd = $dbarry[paswd];$/;"	v
+dbuserpwd	logintest.php	/^$dbuserpwd = $dbarry[paswd];$/;"	v
+dbuserpwd	subcrdinsert1.php	/^$dbuserpwd = $dbarry[paswd];$/;"	v
+dbuserpwd	subcrdinsertrecords1.php	/^$dbuserpwd = $dbarry[paswd];$/;"	v
+dbuserpwd	subselectionform0.php	/^$dbuserpwd = $dbarry[paswd];$/;"	v
+dbuserpwd	subselectionform1.php	/^$dbuserpwd = $dbarry[paswd];$/;"	v
+dbuserpwd	subselectionform1_1.php	/^$dbuserpwd = $dbarry[paswd];$/;"	v
+dbuserpwd	subselectionform_bak.php	/^$dbuserpwd = $dbarry[paswd];$/;"	v
+dept	subselectionform0.php	/^$dept=readdept($dbarry,'subselectionform0.php');$/;"	v
+dept	subselectionform1.php	/^$dept = $_POST['DEPT'];$/;"	v
+dept	subselectionform1_1.php	/^$dept=readdept($dbarry,'subselectionform1.php');$/;"	v
+dept	subselectionform_bak.php	/^$dept=readdept($dbarry,'subselectionform1.php');$/;"	v
+evenodd	subcrdinsert1.php	/^$evenodd=$_POST['WSMS'];$/;"	v
+fresult	testdb2.php	/^$fresult = mysql_fetch_row($result); $/;"	v
+ge	subcrdinsertrecords1.php	/^$ge  	 =$_POST['SUBJECT_GE'];$/;"	v
+getarec	readsetup.php	/^$getarec = fscanf($handle,"%s %s %s\\n");$/;"	v
+getinput	logintest2.php	/^function getinput($msg)$/;"	f
+handle	readsetup.php	/^$handle = fopen("setupdb.ini","r") or die("Could no open setupdb.ini");$/;"	v
+hostname	deletesub1.php	/^$hostname  = $dbarry[host];$/;"	v
+hostname	editsubcrd1.php	/^$hostname  = $dbarry[host];$/;"	v
+hostname	logintest.php	/^$hostname  = $dbarry[host];$/;"	v
+hostname	subcrdinsert1.php	/^$hostname  = $dbarry[host];$/;"	v
+hostname	subcrdinsertrecords1.php	/^$hostname  = $dbarry[host];$/;"	v
+hostname	subselectionform0.php	/^$hostname  = $dbarry[host];$/;"	v
+hostname	subselectionform1.php	/^$hostname  = $dbarry[host];$/;"	v
+hostname	subselectionform1_1.php	/^$hostname  = $dbarry[host];$/;"	v
+hostname	subselectionform_bak.php	/^$hostname  = $dbarry[host];$/;"	v
+i	editbulkcrd.php	/^	$i = $i + 1;$/;"	v
+i	editbulkcrd.php	/^$i =0;$/;"	v
+i	editbulksub.php	/^	$i = $i + 1;$/;"	v
+i	editbulksub.php	/^$i =0;$/;"	v
+i	readsetup.php	/^        $i=$i+1;$/;"	v
+i	readsetup.php	/^        $i=0;$/;"	v
+i	readsetup.php	/^        $i=1;$/;"	v
+lecture	subcrdinsertrecords1.php	/^$lecture =$_POST['SUBJECT_LECTURE'];$/;"	v
+linecount	subcrdinsert1.php	/^         $linecount = $linecount + 1;$/;"	v
+linecount	subcrdinsert1.php	/^        $linecount=1;$/;"	v
+linecount	subcrdinsertrecords1.php	/^	$linecount = $linecount + 1;$/;"	v
+linecount	subcrdinsertrecords1.php	/^$linecount=0;$/;"	v
+maxcount	subcrdinsertrecords1.php	/^$maxcount=count($subcode);$/;"	v
+maxline	subcrdinsert1.php	/^        $maxline = 3;$/;"	v
+mysql_fetch_all_assoc	readsetup.php	/^function mysql_fetch_all_assoc($res,$caller) {$/;"	f
+mysqlinsert	readsetup.php	/^function mysqlinsert($strSQL,$caller)$/;"	f
+mysqlquery	readsetup.php	/^function mysqlquery($strSQL,$caller)$/;"	f
+num	deletesub1.php	/^        $num = mysql_num_rows($objQuery);$/;"	v
+num	editsubcrd1.php	/^        $num = mysql_num_rows($objQuery);$/;"	v
+num	logintest.php	/^	$num = mysql_num_rows($objQuery);$/;"	v
+num	readsetup.php	/^        $num = mysql_num_rows($objQuery);$/;"	v
+num	subcrdinsert1.php	/^        $num = mysql_num_rows($objQuery);$/;"	v
+objConnect	deletecrd1.php	/^$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	deletecrd2.php	/^	$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	deletesub1.php	/^$objConnect=connection($dbarry,'deletesub1.php');$/;"	v
+objConnect	deletesub2.php	/^	$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	deletesub_old.php	/^$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	editbulkcrd.php	/^$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	editbulksub.php	/^$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	editcrd1.php	/^$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	editcrd2.php	/^	$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	editcrd3.php	/^	$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	editsub1.php	/^$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	editsub2.php	/^	$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	editsub3.php	/^	$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	editsubcrd1.php	/^$objConnect=connection($dbarry,'editsubcrd1.php');$/;"	v
+objConnect	logintest.php	/^$objConnect=connection($dbarry,'logintest.php');$/;"	v
+objConnect	myedit.php	/^	$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	readsetup.php	/^$objConnect=connection($dbarry,$caller);$/;"	v
+objConnect	search.php	/^	$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	searchcrd.php	/^	$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	searchsub.php	/^	$objConnect = mysql_connect("172.16.4.19",$user,$pass) or die(mysql_error());$/;"	v
+objConnect	subcrdinsert1.php	/^$objConnect=connection($dbarry,'subcrdinsert1.php');$/;"	v
+objConnect	subcrdinsertrecords1.php	/^$objConnect=connection($dbarry,'subcrdinsertrecords1.php');$/;"	v
+objDB	deletecrd1.php	/^$objDB = mysql_select_db($db);$/;"	v
+objDB	deletecrd2.php	/^	$objDB = mysql_select_db($db);$/;"	v
+objDB	deletesub2.php	/^	$objDB = mysql_select_db($db);$/;"	v
+objDB	deletesub_old.php	/^$objDB = mysql_select_db($db);$/;"	v
+objDB	editbulkcrd.php	/^$objDB = mysql_select_db($db);$/;"	v
+objDB	editbulksub.php	/^$objDB = mysql_select_db($db);$/;"	v
+objDB	editcrd1.php	/^$objDB = mysql_select_db($db);$/;"	v
+objDB	editcrd2.php	/^	$objDB = mysql_select_db($db);$/;"	v
+objDB	editcrd3.php	/^	$objDB = mysql_select_db($db);$/;"	v
+objDB	editsub1.php	/^$objDB = mysql_select_db($db);$/;"	v
+objDB	editsub2.php	/^	$objDB = mysql_select_db($db);$/;"	v
+objDB	editsub3.php	/^	$objDB = mysql_select_db($db);$/;"	v
+objDB	myedit.php	/^	$objDB = mysql_select_db($db);$/;"	v
+objDB	search.php	/^	$objDB = mysql_select_db($db);$/;"	v
+objDB	searchcrd.php	/^	$objDB = mysql_select_db($db);$/;"	v
+objDB	searchsub.php	/^	$objDB = mysql_select_db($db);$/;"	v
+objQuery	deletecrd1.php	/^	$objQuery = mysql_query($strSQL) or die ("Error Query [".$strSQL."]");$/;"	v
+objQuery	deletecrd2.php	/^	$objQuery = mysql_query($strSQL);$/;"	v
+objQuery	deletesub1.php	/^        $objQuery = mysqlquery($strSQL,'deletesub1.php');$/;"	v
+objQuery	deletesub2.php	/^	$objQuery = mysql_query($strSQL);$/;"	v
+objQuery	deletesub_old.php	/^	$objQuery = mysql_query($strSQL) or die ("Error Query [".$strSQL."]");$/;"	v
+objQuery	editbulkcrd.php	/^		$objQuery = mysql_query($strSQL);$/;"	v
+objQuery	editbulkcrd.php	/^$objQuery = mysql_query($strSQL) or die ("Error Query [".$strSQL."]");$/;"	v
+objQuery	editbulksub.php	/^		$objQuery = mysql_query($strSQL);$/;"	v
+objQuery	editbulksub.php	/^$objQuery = mysql_query($strSQL) or die ("Error Query [".$strSQL."]");$/;"	v
+objQuery	editcrd1.php	/^$objQuery = mysql_query($strSQL) or die ("Error Query [".$strSQL."]");$/;"	v
+objQuery	editcrd2.php	/^	$objQuery = mysql_query($strSQL);$/;"	v
+objQuery	editcrd3.php	/^	$objQuery = mysql_query($strSQL);$/;"	v
+objQuery	editsub1.php	/^$objQuery = mysql_query($strSQL) or die ("Error Query [".$strSQL."]");$/;"	v
+objQuery	editsub2.php	/^	$objQuery = mysql_query($strSQL);$/;"	v
+objQuery	editsub3.php	/^	$objQuery = mysql_query($strSQL);$/;"	v
+objQuery	editsubcrd1.php	/^	$objQuery = mysqlquery($strSQL,'editsubcrd1.php');$/;"	v
+objQuery	myedit.php	/^	$objQuery = mysql_query($strSQL) or die ("Error Query [".$strSQL."]");$/;"	v
+objQuery	readsetup.php	/^	$objQuery = mysqlquery($strSQL,$caller);$/;"	v
+objQuery	search.php	/^	$objQuery = mysql_query($strSQL) or die ("Error Query [".$strSQL."]");$/;"	v
+objQuery	searchcrd.php	/^	$objQuery = mysql_query($strSQL) or die ("Error Query [".$strSQL."]");$/;"	v
+objQuery	searchsub.php	/^	$objQuery = mysql_query($strSQL) or die ("Error Query [".$strSQL."]");$/;"	v
+objQuery	subcrdinsert1.php	/^	$objQuery = mysqlquery($strSQL,'subcrdinsert1.php');$/;"	v
+objResult	editcrd2.php	/^	$objResult = mysql_fetch_array($objQuery);$/;"	v
+objResult	editsub2.php	/^	$objResult = mysql_fetch_array($objQuery);$/;"	v
+objconnect	view.php	/^	  $objconnect=mysql_connect("172.26.4.19",$user,$pass) or die (mysql_error());$/;"	v
+objconnect	viewcrd.php	/^	  $objconnect=mysql_connect("172.26.4.19",$user,$pass) or die (mysql_error());$/;"	v
+objdb	view.php	/^	  $objdb=mysql_select_db($db);$/;"	v
+objdb	viewcrd.php	/^	  $objdb=mysql_select_db($db);$/;"	v
+objquery	insertcrd.php	/^ $objquery=mysql_query($sql);$/;"	v
+objquery	insertsub.php	/^$objquery=mysql_query($sql);$/;"	v
+objquery	subcrdinsertrecords1.php	/^	$objquery=mysqlinsert($sql,'subcrdinsertrecords1.php');$/;"	v
+objquery	view.php	/^	  $objquery=mysql_query($strsql) or die ("Error Query[".$strsql."]");$/;"	v
+objquery	viewcrd.php	/^	  $objquery=mysql_query($strsql) or die ("Error Query[".$strsql."]");$/;"	v
+pass	connection.php	/^$pass = "project12";$/;"	v
+pass	deletecrd1.php	/^$pass="project12";$/;"	v
+pass	deletecrd2.php	/^$pass="project12";$/;"	v
+pass	deletesub2.php	/^$pass="project12";$/;"	v
+pass	deletesub_old.php	/^$pass="project12";$/;"	v
+pass	editbulkcrd.php	/^  $pass="project12";$/;"	v
+pass	editbulksub.php	/^  $pass="project12";$/;"	v
+pass	editcrd1.php	/^$pass="project12";$/;"	v
+pass	editcrd2.php	/^$pass="project12";$/;"	v
+pass	editcrd3.php	/^$pass="project12";$/;"	v
+pass	editsub1.php	/^$pass="project12";$/;"	v
+pass	editsub2.php	/^$pass="project12";$/;"	v
+pass	editsub3.php	/^$pass="project12";$/;"	v
+pass	ismconnection.php	/^$pass = "project12";$/;"	v
+pass	myedit.php	/^		$pass="project12";$/;"	v
+pass	readsetup.php	/^$pass = $dbarry[paswd];$/;"	v
+pass	search.php	/^		$pass="project12";$/;"	v
+pass	searchcrd.php	/^		$pass="project12";$/;"	v
+pass	searchsub.php	/^		$pass="project12";$/;"	v
+pass	ssconnection.php	/^$pass = "project12";$/;"	v
+pass	sscreditform.php	/^$pass = "project12";$/;"	v
+pass	ssdelete.php	/^$pass = "project12";$/;"	v
+pass	ssedit.php	/^$pass = "project12";$/;"	v
+pass	ssedit2.php	/^$pass = "project12";$/;"	v
+pass	sspage1.php	/^$pass = "project12";$/;"	v
+pass	testdb1.php	/^$pass = "project12";$/;"	v
+pass	testdb2.php	/^$pass = "project12";$/;"	v
+pass	view.php	/^	  $pass="project12";$/;"	v
+pass	viewcrd.php	/^	  $pass="project12";$/;"	v
+practical	subcrdinsertrecords1.php	/^$practical=$_POST['SUBJECT_PRACTICAL'];$/;"	v
+pswd	testdb1.php	/^$pswd = $row["passwd"];$/;"	v
+pswd	testdb2.php	/^$pswd = $fresult[1];$/;"	v
+pwd	logintest.php	/^$pwd=$_POST['pwd'];$/;"	v
+pwd	logintest2.php	/^$pwd=$_POST['pwd'];$/;"	v
+qr	testdb1.php	/^$qr = "select * from login";$/;"	v
+qr	testdb2.php	/^$qr = "select * from login";$/;"	v
+query	logintest.php	/^	$query="select type,admin_level from login where username='$uname' and passwd='$pwd'";$/;"	v
+readdept	readsetup.php	/^function readdept($dbarry,$caller)$/;"	f
+readsemnamedept	readsetup.php	/^function readsemnamedept($dbarry,$dept,$caller)$/;"	f
+readsetupdb	readsetup.php	/^function readsetupdb()$/;"	f
+res	crdtable.php	/^$res = mysql_query($sql);$/;"	v
+res	edit.php	/^  $res = mysql_query ($sql);$/;"	v
+res	editsub.php	/^  $res = mysql_query ($sql);$/;"	v
+res	ssedit.php	/^  $res = mysql_query ($sql);$/;"	v
+res	tablecrd.php	/^ $res = mysql_query($sql);$/;"	v
+result	isminsertcrd.php	/^ $result = mysql_query("SELECT * FROM ecrd_mst");$/;"	v
+result	logintest.php	/^        $result = mysqlquery($query,$caller);$/;"	v
+result	readsetup.php	/^$result=mysql_query($strSQL) or die("Caller: ".$caller.$/;"	v
+result	sscreditform.php	/^ $result = mysql_query("SELECT * FROM ecrd_mst");$/;"	v
+result	tablesub.php	/^$result = mysql_query("SELECT * FROM esub_mst");$/;"	v
+result	testdb2.php	/^$result = mysql_query($qr) or die('Could not set query results..'.mysql_error());$/;"	v
+row	edit.php	/^  $row = mysql_fetch_array($res);$/;"	v
+row	editsub.php	/^  $row = mysql_fetch_array($res);$/;"	v
+row	ssedit.php	/^  $row = mysql_fetch_array($res);$/;"	v
+row	testdb1.php	/^$row = mysql_fetch_row($qr);$/;"	v
+rs	subselectionform1.php	/^$rs = readsemnamedept($dbarry,$dept,'subselectionform1.php');$/;"	v
+rs	subselectionform_bak.php	/^$rs = readsemname($dbarry,'subselectionform1.php');$/;"	v
+script	subselectionform_bak.php	/^$script = '<script>var newArr = new Array(' . implode(',', $arr) . ');<\/script>';$/;"	v
+selectdb	readsetup.php	/^function selectdb($dbarry,$caller)$/;"	f
+semcode	deletesub1.php	/^$semcode=$_POST['SEM_CODE'];$/;"	v
+semcode	editsubcrd1.php	/^$semcode=$_POST['SEM_CODE'];$/;"	v
+semcode	subcrdinsert1.php	/^$semcode=$_POST['SEM_CODE'];$/;"	v
+semcode	subcrdinsertrecords1.php	/^$semcode=$_SESSION['SEM_CODE'];$/;"	v
+semcodeselection	subcrdmaster.php	/^function semcodeselection(callprog)$/;"	f
+semname	subselectionform1_1.php	/^		 		function semname()$/;"	f
+semname1	subselectionform1_1.php	/^function semname1()$/;"	f
+semname1	subselectionform_bak.php	/^function semname1()$/;"	f
+session	deletesub1.php	/^$session=$_POST['SESSION'];$/;"	v
+session	editsubcrd1.php	/^$session=$_POST['SESSION'];$/;"	v
+session	subcrdinsert1.php	/^$session=$_POST['SESSION'];$/;"	v
+session	subcrdinsertrecords1.php	/^$session=$_SESSION['SESSION'];$/;"	v
+sql	crdtable.php	/^$sql = "select * from ecrd_mst";$/;"	v
+sql	delete.php	/^$sql="DELETE FROM `ecrd_mst` WHERE `ID`=isset('$_GET[ID]')";$/;"	v
+sql	deletesub.php	/^$sql="DELETE FROM `esub_mst` WHERE `ID`='$_GET[ID]'";$/;"	v
+sql	edit.php	/^  $sql = "SELECT  * FROM `ecrd_mst` WHERE `ID` = '$_GET[ID]'";$/;"	v
+sql	edit2.php	/^$sql="UPDATE `ecrd_mst` SET `SESSION`= '$_POST[SESSION]',`SEM_CODE`= '$_POST[SEM_CODE]',`SUBJE_ORDE`='$_POST[SUBJE_ORDE]',`SUBJE_CODE`='$_POST[SUBJE_CODE]',`S_R_P`='$_POST[S_R_P]',`G_E`='$_POST[G_E]',`ENO`='$_POST[ENO]',`FLAG`='$_POST[FLAG]',`VALUE`='$_POST[VALUE]',`LECTURE`='$_POST[LECTURE]',`THEORY`='$_POST[THEORY]',`PRACTICAL`='$_POST[PRACTICAL]',`WEIGHTAGE`='$_POST[WEIGHTAGE]',`OBSOLETE`='$_POST[OBSOLETE]' WHERE `ID`=isset('$_POST[eid]')";$/;"	v
+sql	edit2sub.php	/^$sql="UPDATE `esub_mst` SET `SESSION`= '$_POST[SESSION]',`SEM_CODE`= '$_POST[SEM_CODE]',`SUBJE_CODE`='$_POST[SUBJE_CODE]',`SUBJE_NAME`='$_POST[SUBJE_NAME]',`TEACHER1`='$_POST[TEACHER1]',`DEPT1`='$_POST[DEPT1]',`PSETTER1`='$_POST[PSETTER1]',`PEVALUATOR1`='$_POST[PEVALUATOR1]',`MSUBMISSION1`='$_POST[MSUBMISSION1]',`TEACHER2`='$_POST[TEACHER1]',`DEPT2`='$_POST[DEPT2]',`PSETTER2`='$_POST[PSETTER2]',`PEVALUATOR2`='$_POST[PEVALUATOR2]',`MSUBMISSION2`='$_POST[MSUBMISSION2]',`TEACHER3`='$_POST[TEACHER3]',`DEPT3`='$_POST[DEPT3]',`PSETTER3`='$_POST[PSETTER3]',`PEVALUATOR3`='$_POST[PEVALUATOR3]',`MSUBMISSION3`='$_POST[MSUBMISSION3]',`TEACHER4`='$_POST[TEACHER4]',`DEPT4`='$_POST[DEPT4]',`PSETTER4`='$_POST[PSETTER4]',`PEVALUATOR4`='$_POST[PEVALUATOR4]',`MSUBMISSION4`='$_POST[MSUBMISSION4]',`TEACHER5`='$_POST[TEACHER5]',`DEPT5`='$_POST[DEPT5]',`PSETTER5`='$_POST[PSETTER5]',`PEVALUATOR5`='$_POST[PEVALUATOR5]',`MSUBMISSION5`='$_POST[MSUBMISSION5]',WHERE `ID`='$_POST[eid];";$/;"	v
+sql	editsub.php	/^$sql = "SELECT  * FROM `esub_mst` WHERE `ID` = '$_GET[ID]'";$/;"	v
+sql	insertcrd.php	/^ $sql="INSERT INTO ecrd_mst VALUES('','$_POST[SESSION]','$_POST[SEM_CODE]','$_POST[SUBJE_ORDE]','$_POST[SUBJE_CODE]','$_POST[S_R_P]','$_POST[G_E]','$_POST[ENO]','$_POST[FLAG]','$_POST[VALUE]','$_POST[LECTURE]','$_POST[THEORY]','$_POST[PRACTICAL]','$_POST[WEIGHTAGE]','$_POST[OBSOLETE]')";$/;"	v
+sql	insertsub.php	/^$sql=" INSERT INTO esub_mst VALUES('','$_POST[SESSION]','$_POST[SEM_CODE]','$_POST[SUBJE_CODE]','$_POST[SUB_LINK]','$_POST[SUBJE_NAME]','$_POST[TEACHER1]','$_POST[DEPT1]','$_POST[PSETTER1]','$_POST[PEVALUATOR1]','$_POST[MSUBMISSION1]','$_POST[TEACHER2]','$_POST[DEPT2]','$_POST[PSETTER2]','$_POST[PEVALUATOR2]','$_POST[MSUBMISSION]','$_POST[TEACHER3]','$_POST[DEPT3]','$_POST[PSETTER3]','$_POST[PEVALUATOR3]','$_POST[MSUBMISSION3]','$_POST[TEACHER4]','$_POST[DEPT4]','$_POST[PSETTER4]','$_POST[PEVALUATOR4]','$_POST[MSUBMISSION4]','$_POST[TEACHER5]','$_POST[DEPT5]','$_POST[PSETTER5]','$_POST[PEVALUATOR5]','$_POST[MSUBMISSION5]')";$/;"	v
+sql	isminsertcrd.php	/^ $sql="INSERT INTO ecrd_mst VALUES('','$_POST[SESSION]','$_POST[SEM_CODE]','$_POST[SUBJE_ORDE]','$_POST[SUBJE_CODE]','$_POST[S_R_P]','$_POST[G_E]','$_POST[ENO]','$_POST[FLAG]','$_POST[VALUE]','$_POST[LECTURE]','$_POST[THEORY]','$_POST[PRACTICAL]','$_POST[WEIGHTAGE]','$_POST[OBSOLETE]')";$/;"	v
+sql	sscreditform.php	/^ $sql="INSERT INTO ecrd_mst VALUES('','$_POST[SESSION]','$_POST[SEM_CODE]','$_POST[SUBJE_ORDE]','$_POST[SUBJE_CODE]','$_POST[S_R_P]','$_POST[G_E]','$_POST[ENO]','$_POST[FLAG]','$_POST[VALUE]','$_POST[LECTURE]','$_POST[THEORY]','$_POST[PRACTICAL]','$_POST[WEIGHTAGE]','$_POST[OBSOLETE]')";$/;"	v
+sql	ssdelete.php	/^$sql="DELETE FROM `ecrd_mst` WHERE `ID`='$_GET[ID]'";$/;"	v
+sql	ssedit.php	/^  $sql = "SELECT  * FROM `ecrd_mst` WHERE `ID` = '$_GET[ID]'";$/;"	v
+sql	ssedit2.php	/^$sql="UPDATE `ecrd_mst` SET `SESSION`= '$_POST[SESSION]',`SEM_CODE`= '$_POST[SEM_CODE]',`SUBJE_ORDE`='$_POST[SUBJE_ORDE]',`SUBJE_CODE`='$_POST[SUBJE_CODE]',`S_R_P`='$_POST[S_R_P]',`G_E`='$_POST[G_E]',`ENO`='$_POST[ENO]',`FLAG`='$_POST[FLAG]',`VALUE`='$_POST[VALUE]',`LECTURE`='$_POST[LECTURE]',`THEORY`='$_POST[THEORY]',`PRACTICAL`='$_POST[PRACTICAL]',`WEIGHTAGE`='$_POST[WEIGHTAGE]',`OBSOLETE`='$_POST[OBSOLETE]' WHERE `ID`='$_POST[eid];";$/;"	v
+sql	ssinsert.php	/^ $sql="INSERT INTO esub_mst VALUES('','$_POST[Name]','$_POST[Email]','$_POST[Contact]')";$/;"	v
+sql	subcrdinsertrecords1.php	/^	$sql=" INSERT INTO ecrd_mst (SESSION,SEM_CODE,SUBJE_CODE,SUBJE_ORDE,"; $/;"	v
+sql	subcrdinsertrecords1.php	/^	$sql=" INSERT INTO esub_mst (SESSION,SEM_CODE,SUBJE_CODE,SUBJE_NAME) "; $/;"	v
+sql	subcrdinsertrecords1.php	/^        $sql = $sql . " '$srp[$linecount]', '$ge[$linecount]','$lecture[$linecount]', ";$/;"	v
+sql	subcrdinsertrecords1.php	/^        $sql = $sql . " '$subname[$linecount]') ";$/;"	v
+sql	subcrdinsertrecords1.php	/^        $sql = $sql . " '$suborder[$linecount]', ";$/;"	v
+sql	subcrdinsertrecords1.php	/^        $sql = $sql . " '$theory[$linecount]', '$practical[$linecount]', ";$/;"	v
+sql	subcrdinsertrecords1.php	/^        $sql = $sql . " '$weightage[$linecount]') ";$/;"	v
+sql	subcrdinsertrecords1.php	/^        $sql = $sql . " VALUES('$session','$semcode','$subcode[$linecount]', ";$/;"	v
+sql	subcrdinsertrecords1.php	/^        $sql = $sql . "S_R_P, G_E,LECTURE,THEORY,PRACTICAL,WEIGHTAGE) "; $/;"	v
+sql	tablecrd.php	/^ $sql = mysql_query("SELECT * FROM ecrd_mst");$/;"	v
+srp	subcrdinsertrecords1.php	/^$srp 	 =$_POST['SUBJECT_SRP'];$/;"	v
+strSQL	deletecrd1.php	/^$strSQL = "SELECT * FROM ecrd_mst";$/;"	v
+strSQL	deletecrd2.php	/^	$strSQL = "DELETE FROM ecrd_mst ";$/;"	v
+strSQL	deletesub1.php	/^        $strSQL = "SELECT SUBJE_CODE,SUBJE_NAME ";$/;"	v
+strSQL	deletesub1.php	/^        $strSQL = $strSQL . " FROM esub_mst where SESSION = '$session' and SEM_CODE='$semcode' ";$/;"	v
+strSQL	deletesub1.php	/^        $strSQL = $strSQL . " order by SUBJE_CODE ";$/;"	v
+strSQL	deletesub2.php	/^	$strSQL = "DELETE FROM esub_mst ";$/;"	v
+strSQL	deletesub_old.php	/^$strSQL = "SELECT * FROM ecrd_mst";$/;"	v
+strSQL	editbulkcrd.php	/^		$strSQL = "UPDATE ecrd_mst SET ";$/;"	v
+strSQL	editbulkcrd.php	/^$strSQL = "SELECT * FROM ecrd_mst ORDER BY ID ASC";$/;"	v
+strSQL	editbulksub.php	/^		$strSQL = "UPDATE esub_mst SET ";$/;"	v
+strSQL	editbulksub.php	/^$strSQL = "SELECT * FROM esub_mst ORDER BY ID ASC";$/;"	v
+strSQL	editcrd1.php	/^$strSQL = "SELECT * FROM ecrd_mst";$/;"	v
+strSQL	editcrd2.php	/^	$strSQL = "SELECT * FROM ecrd_mst WHERE ID = '".$_GET["ID"]."' ";$/;"	v
+strSQL	editcrd3.php	/^	$strSQL = "UPDATE ecrd_mst SET ";$/;"	v
+strSQL	editsub1.php	/^$strSQL = "SELECT * FROM esub_mst";$/;"	v
+strSQL	editsub2.php	/^	$strSQL = "SELECT * FROM esub_mst WHERE ID = '".$_GET["ID"]."' ";$/;"	v
+strSQL	editsub3.php	/^	$strSQL = "UPDATE esub_mst SET ";$/;"	v
+strSQL	editsubcrd1.php	/^	$strSQL = "SELECT A.SESSION, A.SEM_CODE, B.SUBJE_ORDE, A.SUBJE_CODE, A.SUBJE_NAME ";$/;"	v
+strSQL	editsubcrd1.php	/^	$strSQL = $strSQL . " AND A.SESSION =  B.SESSION AND A.SEM_CODE = B.SEM_CODE ";$/;"	v
+strSQL	editsubcrd1.php	/^	$strSQL = $strSQL . " AND A.SUBJE_CODE = B.SUBJE_CODE ";$/;"	v
+strSQL	editsubcrd1.php	/^	$strSQL = $strSQL . " FROM esub_mst AS A , ecrd_mst AS B";$/;"	v
+strSQL	editsubcrd1.php	/^	$strSQL = $strSQL . " order by B.SUBJE_ORDE ";$/;"	v
+strSQL	editsubcrd1.php	/^        $strSQL = $strSQL . " where A.SESSION = '$session' and A.SEM_CODE='$semcode' ";$/;"	v
+strSQL	myedit.php	/^	$strSQL = "SELECT * FROM ecrd_mst WHERE (SESSION LIKE '%".$_GET["SESSION"]."%')";$/;"	v
+strSQL	readsetup.php	/^	$strSQL = "SELECT A.SEM_CODE, A.SEM_NAME, A.DEPT";$/;"	v
+strSQL	readsetup.php	/^	$strSQL = "SELECT DISTINCT A.DEPT";$/;"	v
+strSQL	readsetup.php	/^	$strSQL = $strSQL . " FROM esem_mst AS A";$/;"	v
+strSQL	readsetup.php	/^	$strSQL = $strSQL . " order by A.DEPT, A.SEM_CODE";$/;"	v
+strSQL	readsetup.php	/^        $strSQL = $strSQL . " order by A.DEPT";$/;"	v
+strSQL	readsetup.php	/^        $strSQL = $strSQL . " where A.DEPT = '$dept' ";$/;"	v
+strSQL	search.php	/^	$strSQL = "SELECT * FROM esub_mst WHERE (SESSION LIKE '%".$_GET["SESSION"]."%')";$/;"	v
+strSQL	searchcrd.php	/^	$strSQL = "SELECT * FROM ecrd_mst WHERE (SESSION LIKE '%".$_GET["SESSION"]."%')";$/;"	v
+strSQL	searchsub.php	/^	$strSQL = "SELECT * FROM esub_mst WHERE (SESSION LIKE '%".$_GET["SESSION"]."%')";$/;"	v
+strSQL	subcrdinsert1.php	/^	$strSQL = "SELECT A.SESSION, A.SEM_CODE, B.SUBJE_ORDE, A.SUBJE_CODE, A.SUBJE_NAME ";$/;"	v
+strSQL	subcrdinsert1.php	/^	$strSQL = $strSQL . " AND A.SESSION =  B.SESSION AND A.SEM_CODE = B.SEM_CODE ";$/;"	v
+strSQL	subcrdinsert1.php	/^	$strSQL = $strSQL . " AND A.SUBJE_CODE = B.SUBJE_CODE ";$/;"	v
+strSQL	subcrdinsert1.php	/^	$strSQL = $strSQL . " FROM esub_mst AS A , ecrd_mst AS B";$/;"	v
+strSQL	subcrdinsert1.php	/^	$strSQL = $strSQL . " order by B.SUBJE_ORDE ";$/;"	v
+strSQL	subcrdinsert1.php	/^        $strSQL = $strSQL . " where A.SESSION = '$session' and A.SEM_CODE='$semcode' ";$/;"	v
+strsql	view.php	/^	  $strsql="SELECT SESSION,SEM_CODE,SUBJE_NAME FROM esub_mst WHERE(SESSION LIKE '%".$_GET["SESSION"]."%' AND SEM_CODE LIKE '%".$_GET["SEM_CODE"]."%')";$/;"	v
+strsql	viewcrd.php	/^	  $strsql="SELECT * FROM ecrd_mst WHERE(SESSION LIKE '%".$_GET["SESSION"]."%' AND SEM_CODE LIKE '%".$_GET["SEM_CODE"]."%')";$/;"	v
+subcode	subcrdinsertrecords1.php	/^$subcode=$_POST['SUBJECT_CODE'];$/;"	v
+subname	subcrdinsertrecords1.php	/^$subname=$_POST['SUBJECT_NAME'];$/;"	v
+suborder	subcrdinsertrecords1.php	/^$suborder=$_POST['SUBJECT_ORDER'];$/;"	v
+test	readsetup.php	/^function test()$/;"	f
+test1	subselectionform1_1.php	/^function test1(a,b,c)$/;"	f
+test1	subselectionform_bak.php	/^function test1(a,d,s,n,c)$/;"	f
+test2	subselectionform_bak.php	/^		 		function test2($a,$b,$c)$/;"	f
+theory	subcrdinsertrecords1.php	/^$theory  =$_POST['SUBJECT_THEORY'];$/;"	v
+uname	logintest.php	/^$uname=$_POST['uname'];$/;"	v
+uname	logintest2.php	/^$uname=$_POST['uname'];$/;"	v
+user	connection.php	/^ $user = "exmadministrator";$/;"	v
+user	deletecrd1.php	/^$user="exmadministrator";$/;"	v
+user	deletecrd2.php	/^$user="exmadministrator";$/;"	v
+user	deletesub2.php	/^$user="exmadministrator";$/;"	v
+user	deletesub_old.php	/^$user="exmadministrator";$/;"	v
+user	editbulkcrd.php	/^  $user="exmadministrator";$/;"	v
+user	editbulksub.php	/^  $user="exmadministrator";$/;"	v
+user	editcrd1.php	/^$user="exmadministrator";$/;"	v
+user	editcrd2.php	/^$user="exmadministrator";$/;"	v
+user	editcrd3.php	/^$user="exmadministrator";$/;"	v
+user	editsub1.php	/^$user="exmadministrator";$/;"	v
+user	editsub2.php	/^$user="exmadministrator";$/;"	v
+user	editsub3.php	/^$user="exmadministrator";$/;"	v
+user	ismconnection.php	/^ $user = "exmadministrator";$/;"	v
+user	myedit.php	/^		$user="exmadministrator";$/;"	v
+user	readsetup.php	/^$user = $dbarry[user];$/;"	v
+user	search.php	/^		$user="exmadministrator";$/;"	v
+user	searchcrd.php	/^		$user="exmadministrator";$/;"	v
+user	searchsub.php	/^		$user="exmadministrator";$/;"	v
+user	ssconnection.php	/^ $user = "exmadministrator";$/;"	v
+user	sscreditform.php	/^ $user = "exmadministrator";$/;"	v
+user	ssdelete.php	/^$user = "exmadministrator";$/;"	v
+user	ssedit.php	/^  $user = "exmadministrator";$/;"	v
+user	ssedit2.php	/^  $user = "exmadministrator";$/;"	v
+user	sspage1.php	/^ $user = "exmadministrator";$/;"	v
+user	testdb1.php	/^$user = "exmadministrator";$/;"	v
+user	testdb2.php	/^$user = "exmadministrator";$/;"	v
+user	view.php	/^	  $user="exmadministrator";$/;"	v
+user	viewcrd.php	/^	  $user="exmadministrator";$/;"	v
+username	testdb1.php	/^$username = $row["username"];$/;"	v
+username	testdb1.php	/^$username = $row[1];$/;"	v
+username	testdb2.php	/^$username = $fresult[0];$/;"	v
+validation	sshead.php	/^ function validation()$/;"	f
+varin	logintest2.php	/^    $varin = trim(fgets(STDIN));$/;"	v
+weightage	subcrdinsertrecords1.php	/^$weightage=$_POST['SUBJECT_WEIGHTAGE'];$/;"	v

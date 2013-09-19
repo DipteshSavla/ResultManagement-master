@@ -1,0 +1,38 @@
+/* 
+    Document   : master_menu
+    Created on : Mar 25, 2013, 3:54:46 PM
+    Author     : daweizouk
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body{
+    background-color:#ffffcc 
+}
+label{
+    text-transform: uppercase;
+}
+a{
+    display:block;
+    width:100%;
+    height:30px;
+    text-transform:uppercase;
+    text-decoration:none;
+    
+    color:#F00;   
+    background: url(/images/menu_bar.jpg) repeat;
+}
+
+#hello_admin{
+    display:block;
+    width:100%;
+    height:30px;
+    text-transform:uppercase;
+    text-decoration:none;
+    
+    color:#F00;   
+    background: url(/images/menu_bar.jpg) repeat;
+}

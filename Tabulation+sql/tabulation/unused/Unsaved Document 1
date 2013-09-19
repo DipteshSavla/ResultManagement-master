@@ -1,0 +1,17 @@
+<!--
+onSelect='<?php semname(this,'$dbarry','subselectionform1.php') ?>'
+
+<!--
+<?
+$d = 'a';
+$dbn = 'b';
+$c = 'c';
+echo $d;
+echo $dbn;
+echo $c;
+#$rs = readsemname($d,$dbn,$c);
+?>
+-->
+-->
+
+var semcode = "<? readsemname('a','b','c');?>";
